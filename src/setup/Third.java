@@ -6,6 +6,10 @@ public class Third {
         System.out.println("first method myself");
     }
 
+    // Doing task by myself
+
+    // Adding some text
+
 
 
 
